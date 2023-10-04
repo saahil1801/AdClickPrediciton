@@ -28,7 +28,7 @@ Timestamp: The timestamp of the user interaction.
 
 Clicked on Ad: A binary indicator (0 or 1) representing whether the user clicked on the ad (1) or not (0).
 
-Potential Use Cases
+**Potential Use Cases**
 
 User Behavior Analysis: Researchers can analyze this dataset to understand how different factors like age, daily internet usage, and area income correlate with ad engagement.
 
